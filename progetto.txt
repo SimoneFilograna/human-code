@@ -3,7 +3,7 @@ Obiettivo scegliere
 1- Aprire Netflix
 
 2- Scegliere categoria:
-   SE (poco tempo)
+   SE ( tempo < 60min )
     - scegliere serie tv
    Altrimenti
     - scegliere Film
